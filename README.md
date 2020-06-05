@@ -2,7 +2,7 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=allenzhai_Psychify&metric=alert_status)](https://sonarcloud.io/dashboard?id=allenzhai_Psychify) 
 
-psychify.herokuapp.com
+[psychify.herokuapp.com](psychify.herokuapp.com)
 
 Group software development project spanning 2 quarters. Psychify is a webapp designed to help users search for and discuss mental conditions from the DSM-V. The goal of this project was to learn proper software development practices while working on a real project.
 
